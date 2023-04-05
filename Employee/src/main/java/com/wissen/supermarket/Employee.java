@@ -7,10 +7,10 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @SpringBootApplication
-public class SuperMarketBillingManagementApplication {
+public class Employee {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SuperMarketBillingManagementApplication.class, args);
+		SpringApplication.run(Employee.class, args);
 	}
 
 	@Bean
