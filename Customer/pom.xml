@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SuperMarketBillingManagement</artifactId>
+	<artifactId>Customer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SuperMarketBillingManagement</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Customer</name>
+	<description>Customer microservice</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
